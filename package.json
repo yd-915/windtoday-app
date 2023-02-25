@@ -72,7 +72,7 @@
     "stylelint-config-standard": "latest"
   },
   "engines": {
-    "node": "8"
+    "node": "18"
   },
   "files": [
     "components",
